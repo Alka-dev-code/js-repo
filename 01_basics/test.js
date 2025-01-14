@@ -1,1 +1,1 @@
-console.log("alka")
+console.log("alka");
